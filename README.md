@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Search GitHub Contributions Calendar</h1>
-</div>
+</div> 
 
 - ReactJS
 - react-github-calendar
